@@ -1,0 +1,46 @@
+{
+    "chatBot": [
+        {
+            "message": [
+                "Welcome to Sia bot, how can i help you?"
+            ]
+        },
+        {
+            "options": [
+                "1. I can't log in",
+                "2. I have Problems With java",
+                "3. The system is down"
+            ]
+        },
+        {
+            "message": [
+                "The system is down, is the system:"
+            ]
+        },
+        {
+            "options": [
+                "1 Not accessible over the web",
+                "2 Not accessible over mobile"
+            ]
+        },
+        {
+            "message": [
+                "The website have crushed, we fixing the problem"
+            ]
+        },
+        {
+            "options": [
+                "Try the offline installer package (Windows only)",
+                "Uninstall any non-working Java installations",
+                "Temporarily turn off firewall or antivirus clients",
+                "Why do I get file corrupt message during Java installation?",
+                "Restart your browser after installing Java to enable the new version."
+            ]
+        },
+        {
+            "message": [
+                "General troubleshooting tips for Android devices. Restart your device. It might sound simple, but sometimes that's all it takes to fix a bad connection. If restarting doesn't work, switch between Wi-Fi and mobile data: Open your Settings app and tap Network & internet or Connections. Depending on your device, these options may be different. Turn Wi-Fi off and mobile data on, and check if there's a difference. If not, turn mobile data off and Wi-Fi on and check again."
+            ]
+        }
+    ]
+}

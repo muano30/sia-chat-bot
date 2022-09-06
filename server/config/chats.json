@@ -1,0 +1,152 @@
+{
+    "chatBot": {
+        "messages": [
+            {
+                "option": "Welcome to Sia bot, how can i help you?"
+            },
+            {
+                "option": " 1.I can't log in",
+                "subOption": [
+                    {
+                        "optionText": "1. I can't login"
+                    },
+                    {
+                        "text": "Are you using one of this?"
+                    },
+                    {
+                        "solutions": [
+                            {
+                                "option": "1.Are Using Computer?",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": "1.Using Computer?"
+                                    },
+                                    {
+                                        "text": "This could be the solution to your Computer problem"
+                                    },
+                                    {
+                                        "solution": "The first thing you should immediately try is restarting your computer. If you can get to the log in screen, click on the power icon in the bottom-right corner of the screen, then choose “Restart.” This is going to restart your computer and help you verify that the issue is still present."
+                                    }
+                                ]
+                            },
+                            {
+                                "option": "2. Are you using Mobile?",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": "1.Using Mobile?"
+                                    },
+                                    {
+                                        "text": "This could be the solution to your Mobile problem"
+                                    },
+                                    {
+                                        "solution": "Restart your mobile phone and try to logIn again"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "option": "2.I have problem with Java",
+                "subOption": [
+                    {
+                        "optionText": "1. I have problem with Java"
+                    },
+                    {
+                        "text": "Are you facing this kind of problem in java"
+                    },
+                    {
+                        "solutions": [
+                            {
+                                "option": "1.Windows only",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": ""
+                                    },
+                                    {
+                                        "text": ""
+                                    },
+                                    {
+                                        "solution": "Try the offline installer package (Windows only)"
+                                    }
+                                ]
+                            },
+                            {
+                                "option": "2. Java Installation",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": ""
+                                    },
+                                    {
+                                        "text": ""
+                                    },
+                                    {
+                                        "solution": "Uninstall any non-working Java installations"
+                                    }
+                                ]
+                            },
+                            {
+                                "option": "3. Firewall or antivirus clients",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": ""
+                                    },
+                                    {
+                                        "text": ""
+                                    },
+                                    {
+                                        "solution": "Temporarily turn off firewall or antivirus clients"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "option": "3.The system is down",
+                "subOption": [
+                    {
+                        "optionText": "1. The system is down"
+                    },
+                    {
+                        "text": "The system is, is the system:"
+                    },
+                    {
+                        "solutions": [
+                            {
+                                "option": "1. Not accessible over the web",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": ""
+                                    },
+                                    {
+                                        "text": ""
+                                    },
+                                    {
+                                        "solutions": "Try to load the website on both devices to ascertain if the issue is with the site or with your network. If the site is still not accessible regardless of the network, then the website is likely down."
+                                    }
+                                ]
+                            },
+                            {
+                                "option": "2. Not accessible over the mobile",
+                                "subOptionSolutions": [
+                                    {
+                                        "optionText": ""
+                                    },
+                                    {
+                                        "text": ""
+                                    },
+                                    {
+                                        "solutions": "General troubleshooting tips for Android devices. Restart your device. It might sound simple, but sometimes that's all it takes to fix a bad connection. If restarting doesn't work, switch between Wi-Fi and mobile data: Open your Settings app and tap Network & internet or Connections. Depending on your device, these options may be different. Turn Wi-Fi off and mobile data on, and check if there's a difference. If not, turn mobile data off and Wi-Fi on and check again."
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
